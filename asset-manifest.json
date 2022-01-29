@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/planetWatchers/static/css/main.dfe9de9a.css",
+    "main.js": "/planetWatchers/static/js/main.d0581030.js",
+    "static/media/Roboto-Thin.ttf": "/planetWatchers/static/media/Roboto-Thin.1711b41f3ae4cb322eea.ttf",
+    "static/media/Roboto-Regular.ttf": "/planetWatchers/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Bold.ttf": "/planetWatchers/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "index.html": "/planetWatchers/index.html",
+    "main.dfe9de9a.css.map": "/planetWatchers/static/css/main.dfe9de9a.css.map",
+    "main.d0581030.js.map": "/planetWatchers/static/js/main.d0581030.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe9de9a.css",
+    "static/js/main.d0581030.js"
+  ]
+}
