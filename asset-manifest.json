@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/planetWatchers/static/css/main.c09b53e0.css",
-    "main.js": "/planetWatchers/static/js/main.8d4fd2e4.js",
+    "main.css": "/planetWatchers/static/css/main.7a2aea96.css",
+    "main.js": "/planetWatchers/static/js/main.15aee7d5.js",
     "static/media/Roboto-Thin.ttf": "/planetWatchers/static/media/Roboto-Thin.1711b41f3ae4cb322eea.ttf",
     "static/media/Roboto-Regular.ttf": "/planetWatchers/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
     "static/media/Roboto-Bold.ttf": "/planetWatchers/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
     "static/media/RunboyFreeTrial-2ODAo.otf": "/planetWatchers/static/media/RunboyFreeTrial-2ODAo.c9653114288293fc72bd.otf",
     "index.html": "/planetWatchers/index.html",
-    "main.c09b53e0.css.map": "/planetWatchers/static/css/main.c09b53e0.css.map",
-    "main.8d4fd2e4.js.map": "/planetWatchers/static/js/main.8d4fd2e4.js.map"
+    "main.7a2aea96.css.map": "/planetWatchers/static/css/main.7a2aea96.css.map",
+    "main.15aee7d5.js.map": "/planetWatchers/static/js/main.15aee7d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c09b53e0.css",
-    "static/js/main.8d4fd2e4.js"
+    "static/css/main.7a2aea96.css",
+    "static/js/main.15aee7d5.js"
   ]
 }
